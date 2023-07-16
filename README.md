@@ -1,2 +1,2 @@
-# Tiny-scripts-VASP
-Some useful scripts for VASP, e.g. moving the ions according to the soft mode
+# Introduction
+Some useful scripts for calculations, e.g. moving the ions according to the soft mode
